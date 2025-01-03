@@ -12,7 +12,7 @@ class alphabet{
       System.out.print("ALPHABETS");
      
      else
-      System.out.print("others");
+      System.out.print(" mm others");
 
     }
 }    
